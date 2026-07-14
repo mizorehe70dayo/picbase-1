@@ -1,0 +1,492 @@
+{
+  "version": "1.0",
+  "exportedAt": "2026-07-14T08:42:22.927Z",
+  "categories": [
+    {
+      "id": "all",
+      "name": "全部",
+      "order": 0
+    },
+    {
+      "id": "holdings",
+      "name": "持有",
+      "order": 1
+    },
+    {
+      "id": "cat_1784010185503",
+      "name": "半导体",
+      "order": 2
+    },
+    {
+      "id": "cat_1784009952345",
+      "name": "全球科技",
+      "order": 3
+    },
+    {
+      "id": "cat_1784010096248",
+      "name": "通信",
+      "order": 4
+    },
+    {
+      "id": "cat_1784009034167",
+      "name": "煤炭",
+      "order": 5
+    },
+    {
+      "id": "cat_1784009080207",
+      "name": "石油石化",
+      "order": 6
+    },
+    {
+      "id": "cat_1784010007748",
+      "name": "农业",
+      "order": 7
+    },
+    {
+      "id": "cat_1784010115222",
+      "name": "机器人",
+      "order": 8
+    },
+    {
+      "id": "cat_1784011552041",
+      "name": "定投",
+      "order": 9
+    }
+  ],
+  "funds": [
+    {
+      "fundCode": "011839",
+      "categoryIds": [
+        "all",
+        "holdings",
+        "cat_1784010096248"
+      ],
+      "note": "",
+      "name": "天弘中证人工智能指数A",
+      "customTags": [
+        {
+          "category_name": "主题",
+          "sub_category_name": "科技",
+          "index_symbol": "CSI930713",
+          "index_name": "CS人工智"
+        },
+        {
+          "category_name": "搜索",
+          "sub_category_name": "搜索结果",
+          "index_symbol": "CSIH30184",
+          "index_name": "中证全指半导体"
+        }
+      ],
+      "customTag": {
+        "category_name": "搜索",
+        "sub_category_name": "搜索结果",
+        "index_symbol": "CSIH30184",
+        "index_name": "中证全指半导体"
+      }
+    },
+    {
+      "fundCode": "014064",
+      "categoryIds": [
+        "all",
+        "cat_1784010007748"
+      ],
+      "note": "",
+      "name": "银华农业产业股票发起式C",
+      "customTags": [
+        {
+          "category_name": "搜索",
+          "sub_category_name": "搜索结果",
+          "index_symbol": "CSI000949",
+          "index_name": "中证农业"
+        }
+      ],
+      "customTag": {
+        "category_name": "搜索",
+        "sub_category_name": "搜索结果",
+        "index_symbol": "CSI000949",
+        "index_name": "中证农业"
+      }
+    },
+    {
+      "fundCode": "014881",
+      "categoryIds": [
+        "all",
+        "holdings",
+        "cat_1784010115222"
+      ],
+      "note": "",
+      "name": "天弘中证机器人ETF发起联接C",
+      "customTags": null,
+      "customTag": null
+    },
+    {
+      "fundCode": "015566",
+      "categoryIds": [
+        "all",
+        "cat_1784009034167"
+      ],
+      "note": "",
+      "name": "万家精选混合C",
+      "customTags": [
+        {
+          "category_name": "搜索",
+          "sub_category_name": "搜索结果",
+          "index_symbol": "SZ399998",
+          "index_name": "中证煤炭"
+        }
+      ],
+      "customTag": {
+        "category_name": "搜索",
+        "sub_category_name": "搜索结果",
+        "index_symbol": "SZ399998",
+        "index_name": "中证煤炭"
+      }
+    },
+    {
+      "fundCode": "016452",
+      "categoryIds": [
+        "all",
+        "cat_1784011552041"
+      ],
+      "note": "",
+      "name": "南方纳斯达克100指数发起（QDII）A",
+      "customTags": [
+        {
+          "category_name": "搜索",
+          "sub_category_name": "搜索结果",
+          "index_symbol": "GINDX",
+          "index_name": "纳斯达克100"
+        }
+      ],
+      "customTag": {
+        "category_name": "搜索",
+        "sub_category_name": "搜索结果",
+        "index_symbol": "GINDX",
+        "index_name": "纳斯达克100"
+      }
+    },
+    {
+      "fundCode": "016665",
+      "categoryIds": [
+        "all",
+        "cat_1784009952345"
+      ],
+      "note": "",
+      "name": "天弘全球高端制造混合（QDII）C",
+      "customTags": null,
+      "customTag": null
+    },
+    {
+      "fundCode": "017811",
+      "categoryIds": [
+        "all",
+        "holdings",
+        "cat_1784010185503"
+      ],
+      "note": "",
+      "name": "东方人工智能主题混合C",
+      "customTags": [
+        {
+          "category_name": "搜索",
+          "sub_category_name": "搜索结果",
+          "index_symbol": "CSIH30184",
+          "index_name": "中证全指半导体"
+        }
+      ],
+      "customTag": {
+        "category_name": "搜索",
+        "sub_category_name": "搜索结果",
+        "index_symbol": "CSIH30184",
+        "index_name": "中证全指半导体"
+      }
+    },
+    {
+      "fundCode": "017855",
+      "categoryIds": [
+        "all",
+        "cat_1784009080207",
+        "holdings"
+      ],
+      "note": "",
+      "name": "华夏中证石化产业ETF发起式联接A",
+      "customTags": [
+        {
+          "category_name": "搜索",
+          "sub_category_name": "搜索结果",
+          "index_symbol": "SPISPSIOPTR",
+          "index_name": "标普石油天然气上游股票全收益指数"
+        }
+      ],
+      "customTag": {
+        "category_name": "搜索",
+        "sub_category_name": "搜索结果",
+        "index_symbol": "SPISPSIOPTR",
+        "index_name": "标普石油天然气上游股票全收益指数"
+      }
+    },
+    {
+      "fundCode": "018230",
+      "categoryIds": [
+        "all",
+        "cat_1784009952345"
+      ],
+      "note": "",
+      "name": "易方达全球优质企业混合(QDII)C(人民币份额)",
+      "customTags": null,
+      "customTag": null
+    },
+    {
+      "fundCode": "020470",
+      "categoryIds": [
+        "all",
+        "holdings",
+        "cat_1784010185503"
+      ],
+      "note": "",
+      "name": "长城半导体混合发起式C",
+      "customTags": [
+        {
+          "category_name": "搜索",
+          "sub_category_name": "搜索结果",
+          "index_symbol": "CSIH30184",
+          "index_name": "中证全指半导体"
+        }
+      ],
+      "customTag": {
+        "category_name": "搜索",
+        "sub_category_name": "搜索结果",
+        "index_symbol": "CSIH30184",
+        "index_name": "中证全指半导体"
+      }
+    },
+    {
+      "fundCode": "024239",
+      "categoryIds": [
+        "all",
+        "cat_1784009952345",
+        "holdings"
+      ],
+      "note": "",
+      "name": "华夏全球科技先锋混合(QDII)C",
+      "customTags": null,
+      "customTag": null
+    },
+    {
+      "fundCode": "024424",
+      "categoryIds": [
+        "all",
+        "cat_1784010185503"
+      ],
+      "note": "",
+      "name": "东方阿尔法科技优选混合发起C",
+      "customTags": [
+        {
+          "category_name": "搜索",
+          "sub_category_name": "搜索结果",
+          "index_symbol": "CSIH30184",
+          "index_name": "中证全指半导体"
+        }
+      ],
+      "customTag": {
+        "category_name": "搜索",
+        "sub_category_name": "搜索结果",
+        "index_symbol": "CSIH30184",
+        "index_name": "中证全指半导体"
+      }
+    },
+    {
+      "fundCode": "519212",
+      "categoryIds": [
+        "all",
+        "cat_1784009034167",
+        "holdings"
+      ],
+      "note": "",
+      "name": "万家宏观择时多策略",
+      "customTags": [
+        {
+          "category_name": "搜索",
+          "sub_category_name": "搜索结果",
+          "index_symbol": "SZ399998",
+          "index_name": "中证煤炭"
+        }
+      ],
+      "customTag": {
+        "category_name": "搜索",
+        "sub_category_name": "搜索结果",
+        "index_symbol": "SZ399998",
+        "index_name": "中证煤炭"
+      }
+    }
+  ],
+  "predictionHistory": [
+    {
+      "fundCode": "011839",
+      "date": "2026-07-13",
+      "rawEst": -1.1405,
+      "avgError": -1.6595,
+      "compEst": -2.8,
+      "realChange": -2.8
+    },
+    {
+      "fundCode": "011839",
+      "date": "2026-07-14",
+      "rawEst": 2.0779,
+      "avgError": -1.6595,
+      "compEst": 0.42,
+      "realChange": null
+    },
+    {
+      "fundCode": "014064",
+      "date": "2026-07-13",
+      "rawEst": 1.0659,
+      "avgError": -0.2459,
+      "compEst": 0.82,
+      "realChange": 0.8153
+    },
+    {
+      "fundCode": "014064",
+      "date": "2026-07-14",
+      "rawEst": -0.2539,
+      "avgError": -0.2506,
+      "compEst": -0.5,
+      "realChange": null
+    },
+    {
+      "fundCode": "014881",
+      "date": "2026-07-13",
+      "rawEst": -0.0443,
+      "avgError": -5.4257,
+      "compEst": -5.47,
+      "realChange": -5.47
+    },
+    {
+      "fundCode": "014881",
+      "date": "2026-07-14",
+      "rawEst": -0.0046,
+      "avgError": -5.4257,
+      "compEst": -5.43,
+      "realChange": null
+    },
+    {
+      "fundCode": "015566",
+      "date": "2026-07-14",
+      "rawEst": 3.062,
+      "avgError": 0,
+      "compEst": 3.06,
+      "realChange": null
+    },
+    {
+      "fundCode": "016452",
+      "date": "2026-07-13",
+      "rawEst": 0,
+      "avgError": 0,
+      "compEst": 0,
+      "realChange": null
+    },
+    {
+      "fundCode": "016452",
+      "date": "2026-07-14",
+      "rawEst": -0.4395,
+      "avgError": 0,
+      "compEst": -0.44,
+      "realChange": null
+    },
+    {
+      "fundCode": "016665",
+      "date": "2026-07-13",
+      "rawEst": -0.0055,
+      "avgError": 0,
+      "compEst": -0.01,
+      "realChange": null
+    },
+    {
+      "fundCode": "016665",
+      "date": "2026-07-14",
+      "rawEst": 0.0734,
+      "avgError": 0,
+      "compEst": 0.07,
+      "realChange": null
+    },
+    {
+      "fundCode": "017811",
+      "date": "2026-07-13",
+      "rawEst": -2.3538,
+      "avgError": -0.2362,
+      "compEst": -2.59,
+      "realChange": -2.59
+    },
+    {
+      "fundCode": "017811",
+      "date": "2026-07-14",
+      "rawEst": -0.4973,
+      "avgError": -0.2362,
+      "compEst": -0.73,
+      "realChange": null
+    },
+    {
+      "fundCode": "017855",
+      "date": "2026-07-14",
+      "rawEst": 0,
+      "avgError": 0,
+      "compEst": 4.073951,
+      "realChange": null
+    },
+    {
+      "fundCode": "018230",
+      "date": "2026-07-13",
+      "rawEst": -2.477,
+      "avgError": 0,
+      "compEst": -2.48,
+      "realChange": null
+    },
+    {
+      "fundCode": "018230",
+      "date": "2026-07-14",
+      "rawEst": 2.041,
+      "avgError": 0,
+      "compEst": 2.04,
+      "realChange": null
+    },
+    {
+      "fundCode": "020470",
+      "date": "2026-07-13",
+      "rawEst": -2.5212,
+      "avgError": 0.1912,
+      "compEst": -2.33,
+      "realChange": -2.33
+    },
+    {
+      "fundCode": "020470",
+      "date": "2026-07-14",
+      "rawEst": -0.8153,
+      "avgError": 0.1912,
+      "compEst": -0.62,
+      "realChange": null
+    },
+    {
+      "fundCode": "024239",
+      "date": "2026-07-14",
+      "rawEst": -1.731,
+      "avgError": 0,
+      "compEst": -1.73,
+      "realChange": null
+    },
+    {
+      "fundCode": "024424",
+      "date": "2026-07-14",
+      "rawEst": 1.1344,
+      "avgError": 0,
+      "compEst": 1.13,
+      "realChange": null
+    },
+    {
+      "fundCode": "519212",
+      "date": "2026-07-14",
+      "rawEst": 4.3598,
+      "avgError": 0,
+      "compEst": 4.36,
+      "realChange": null
+    }
+  ]
+}
