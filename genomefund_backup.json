@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportedAt": "2026-07-14T13:24:04.146Z",
+  "exportedAt": "2026-07-14T14:35:33.315Z",
   "categories": [
     {
       "id": "all",
@@ -51,6 +51,11 @@
       "id": "cat_1784011552041",
       "name": "定投",
       "order": 9
+    },
+    {
+      "id": "cat_1784039658584",
+      "name": "医药",
+      "order": 10
     }
   ],
   "funds": [
@@ -316,6 +321,33 @@
       "calcHistory": null
     },
     {
+      "fundCode": "019667",
+      "categoryIds": [
+        "all",
+        "cat_1784039658584"
+      ],
+      "note": "",
+      "name": "易方达中证创新药产业ETF联接发起式C",
+      "customTags": [
+        {
+          "category_name": "搜索",
+          "sub_category_name": "搜索结果",
+          "index_symbol": "CSI931152",
+          "index_name": "CS创新药"
+        }
+      ],
+      "customTag": {
+        "category_name": "搜索",
+        "sub_category_name": "搜索结果",
+        "index_symbol": "CSI931152",
+        "index_name": "CS创新药"
+      },
+      "holdingAmount": null,
+      "lastCalculatedDate": null,
+      "transactions": null,
+      "calcHistory": null
+    },
+    {
       "fundCode": "020470",
       "categoryIds": [
         "all",
@@ -548,7 +580,7 @@
       "rawEst": 0,
       "avgError": 0,
       "compEst": 4.073951,
-      "realChange": 2.7188
+      "realChange": null
     },
     {
       "fundCode": "018230",
@@ -564,6 +596,14 @@
       "rawEst": 2.041,
       "avgError": -1.1237,
       "compEst": 0.92,
+      "realChange": null
+    },
+    {
+      "fundCode": "019667",
+      "date": "2026-07-14",
+      "rawEst": 0,
+      "avgError": 0,
+      "compEst": 3.31,
       "realChange": null
     },
     {
@@ -585,9 +625,9 @@
     {
       "fundCode": "024239",
       "date": "2026-07-14",
-      "rawEst": -1.731,
+      "rawEst": 0.8694,
       "avgError": 0,
-      "compEst": -1.73,
+      "compEst": 0.87,
       "realChange": null
     },
     {
