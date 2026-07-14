@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportedAt": "2026-07-14T13:20:59.048Z",
+  "exportedAt": "2026-07-14T13:24:04.146Z",
   "categories": [
     {
       "id": "all",
@@ -82,7 +82,22 @@
         "sub_category_name": "搜索结果",
         "index_symbol": "CSIH30184",
         "index_name": "中证全指半导体"
-      }
+      },
+      "holdingAmount": 441.57176986999997,
+      "lastCalculatedDate": "2026-07-14",
+      "transactions": [],
+      "calcHistory": [
+        {
+          "date": "2026-07-14",
+          "holdingBefore": 434.39,
+          "txAmount": 0,
+          "holdingAfterTx": 434.39,
+          "yieldRate": 1.6533,
+          "isRealYield": true,
+          "earnings": 7.181769869999999,
+          "holdingAfterYield": 441.57176986999997
+        }
+      ]
     },
     {
       "fundCode": "014064",
@@ -105,7 +120,11 @@
         "sub_category_name": "搜索结果",
         "index_symbol": "CSI000949",
         "index_name": "中证农业"
-      }
+      },
+      "holdingAmount": null,
+      "lastCalculatedDate": null,
+      "transactions": null,
+      "calcHistory": null
     },
     {
       "fundCode": "014881",
@@ -117,7 +136,22 @@
       "note": "",
       "name": "天弘中证机器人ETF发起联接C",
       "customTags": null,
-      "customTag": null
+      "customTag": null,
+      "holdingAmount": 91.74063303,
+      "lastCalculatedDate": "2026-07-14",
+      "transactions": [],
+      "calcHistory": [
+        {
+          "date": "2026-07-14",
+          "holdingBefore": 91.17,
+          "txAmount": 0,
+          "holdingAfterTx": 91.17,
+          "yieldRate": 0.6259,
+          "isRealYield": true,
+          "earnings": 0.57063303,
+          "holdingAfterYield": 91.74063303
+        }
+      ]
     },
     {
       "fundCode": "015566",
@@ -140,7 +174,11 @@
         "sub_category_name": "搜索结果",
         "index_symbol": "SZ399998",
         "index_name": "中证煤炭"
-      }
+      },
+      "holdingAmount": null,
+      "lastCalculatedDate": null,
+      "transactions": null,
+      "calcHistory": null
     },
     {
       "fundCode": "016452",
@@ -163,7 +201,11 @@
         "sub_category_name": "搜索结果",
         "index_symbol": "GINDX",
         "index_name": "纳斯达克100"
-      }
+      },
+      "holdingAmount": null,
+      "lastCalculatedDate": null,
+      "transactions": null,
+      "calcHistory": null
     },
     {
       "fundCode": "016665",
@@ -174,7 +216,11 @@
       "note": "",
       "name": "天弘全球高端制造混合（QDII）C",
       "customTags": null,
-      "customTag": null
+      "customTag": null,
+      "holdingAmount": null,
+      "lastCalculatedDate": null,
+      "transactions": null,
+      "calcHistory": null
     },
     {
       "fundCode": "017811",
@@ -198,7 +244,22 @@
         "sub_category_name": "搜索结果",
         "index_symbol": "CSIH30184",
         "index_name": "中证全指半导体"
-      }
+      },
+      "holdingAmount": 515.32075219,
+      "lastCalculatedDate": "2026-07-14",
+      "transactions": [],
+      "calcHistory": [
+        {
+          "date": "2026-07-14",
+          "holdingBefore": 517.07,
+          "txAmount": 0,
+          "holdingAfterTx": 517.07,
+          "yieldRate": -0.3383,
+          "isRealYield": true,
+          "earnings": -1.74924781,
+          "holdingAfterYield": 515.32075219
+        }
+      ]
     },
     {
       "fundCode": "017855",
@@ -222,7 +283,22 @@
         "sub_category_name": "搜索结果",
         "index_symbol": "SPISPSIOPTR",
         "index_name": "标普石油天然气上游股票全收益指数"
-      }
+      },
+      "holdingAmount": 0,
+      "lastCalculatedDate": "2026-07-14",
+      "transactions": [],
+      "calcHistory": [
+        {
+          "date": "2026-07-14",
+          "holdingBefore": 0,
+          "txAmount": 0,
+          "holdingAfterTx": 0,
+          "yieldRate": 2.7188,
+          "isRealYield": true,
+          "earnings": 0,
+          "holdingAfterYield": 0
+        }
+      ]
     },
     {
       "fundCode": "018230",
@@ -233,7 +309,11 @@
       "note": "",
       "name": "易方达全球优质企业混合(QDII)C(人民币份额)",
       "customTags": null,
-      "customTag": null
+      "customTag": null,
+      "holdingAmount": null,
+      "lastCalculatedDate": null,
+      "transactions": null,
+      "calcHistory": null
     },
     {
       "fundCode": "020470",
@@ -257,7 +337,22 @@
         "sub_category_name": "搜索结果",
         "index_symbol": "CSIH30184",
         "index_name": "中证全指半导体"
-      }
+      },
+      "holdingAmount": 505.21302492,
+      "lastCalculatedDate": "2026-07-14",
+      "transactions": [],
+      "calcHistory": [
+        {
+          "date": "2026-07-14",
+          "holdingBefore": 504.67,
+          "txAmount": 0,
+          "holdingAfterTx": 504.67,
+          "yieldRate": 0.1076,
+          "isRealYield": true,
+          "earnings": 0.54302492,
+          "holdingAfterYield": 505.21302492
+        }
+      ]
     },
     {
       "fundCode": "024239",
@@ -269,7 +364,11 @@
       "note": "",
       "name": "华夏全球科技先锋混合(QDII)C",
       "customTags": null,
-      "customTag": null
+      "customTag": null,
+      "holdingAmount": 0,
+      "lastCalculatedDate": "2026-07-13",
+      "transactions": [],
+      "calcHistory": []
     },
     {
       "fundCode": "024424",
@@ -292,7 +391,11 @@
         "sub_category_name": "搜索结果",
         "index_symbol": "CSIH30184",
         "index_name": "中证全指半导体"
-      }
+      },
+      "holdingAmount": null,
+      "lastCalculatedDate": null,
+      "transactions": null,
+      "calcHistory": null
     },
     {
       "fundCode": "519212",
@@ -316,7 +419,22 @@
         "sub_category_name": "搜索结果",
         "index_symbol": "SZ399998",
         "index_name": "中证煤炭"
-      }
+      },
+      "holdingAmount": 0,
+      "lastCalculatedDate": "2026-07-14",
+      "transactions": [],
+      "calcHistory": [
+        {
+          "date": "2026-07-14",
+          "holdingBefore": 0,
+          "txAmount": 0,
+          "holdingAfterTx": 0,
+          "yieldRate": 3.6482,
+          "isRealYield": true,
+          "earnings": 0,
+          "holdingAfterYield": 0
+        }
+      ]
     }
   ],
   "predictionHistory": [
