@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportedAt": "2026-07-14T08:42:22.927Z",
+  "exportedAt": "2026-07-14T13:20:59.048Z",
   "categories": [
     {
       "id": "all",
@@ -334,7 +334,7 @@
       "rawEst": 2.0779,
       "avgError": -1.6595,
       "compEst": 0.42,
-      "realChange": null
+      "realChange": 1.6533
     },
     {
       "fundCode": "014064",
@@ -350,7 +350,7 @@
       "rawEst": -0.2539,
       "avgError": -0.2506,
       "compEst": -0.5,
-      "realChange": null
+      "realChange": -0.2577
     },
     {
       "fundCode": "014881",
@@ -366,7 +366,7 @@
       "rawEst": -0.0046,
       "avgError": -5.4257,
       "compEst": -5.43,
-      "realChange": null
+      "realChange": 0.6259
     },
     {
       "fundCode": "015566",
@@ -422,7 +422,7 @@
       "rawEst": -0.4973,
       "avgError": -0.2362,
       "compEst": -0.73,
-      "realChange": null
+      "realChange": -0.3383
     },
     {
       "fundCode": "017855",
@@ -430,7 +430,7 @@
       "rawEst": 0,
       "avgError": 0,
       "compEst": 4.073951,
-      "realChange": null
+      "realChange": 2.7188
     },
     {
       "fundCode": "018230",
@@ -438,14 +438,14 @@
       "rawEst": -2.477,
       "avgError": 0,
       "compEst": -2.48,
-      "realChange": null
+      "realChange": -3.6007
     },
     {
       "fundCode": "018230",
       "date": "2026-07-14",
       "rawEst": 2.041,
-      "avgError": 0,
-      "compEst": 2.04,
+      "avgError": -1.1237,
+      "compEst": 0.92,
       "realChange": null
     },
     {
@@ -462,7 +462,7 @@
       "rawEst": -0.8153,
       "avgError": 0.1912,
       "compEst": -0.62,
-      "realChange": null
+      "realChange": 0.1076
     },
     {
       "fundCode": "024239",
@@ -486,7 +486,7 @@
       "rawEst": 4.3598,
       "avgError": 0,
       "compEst": 4.36,
-      "realChange": null
+      "realChange": 3.6482
     }
   ]
 }
