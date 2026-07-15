@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportedAt": "2026-07-15T01:57:46.277Z",
+  "exportedAt": "2026-07-15T05:15:30.182Z",
   "categories": [
     {
       "id": "all",
@@ -51,9 +51,68 @@
       "id": "cat_1784011552041",
       "name": "定投",
       "order": 9
+    },
+    {
+      "id": "cat_1784081468425",
+      "name": "医药",
+      "order": 10
     }
   ],
   "funds": [
+    {
+      "fundCode": "008619",
+      "categoryIds": [
+        "all",
+        "cat_1784081468425"
+      ],
+      "note": "",
+      "name": "永赢医药健康C",
+      "customTags": [
+        {
+          "category_name": "搜索",
+          "sub_category_name": "搜索结果",
+          "index_symbol": "SH000808",
+          "index_name": "医药生物"
+        }
+      ],
+      "customTag": {
+        "category_name": "搜索",
+        "sub_category_name": "搜索结果",
+        "index_symbol": "SH000808",
+        "index_name": "医药生物"
+      },
+      "holdingAmount": null,
+      "lastCalculatedDate": null,
+      "transactions": null,
+      "calcHistory": null
+    },
+    {
+      "fundCode": "010655",
+      "categoryIds": [
+        "all",
+        "cat_1784081468425"
+      ],
+      "note": "",
+      "name": "天弘医药创新C",
+      "customTags": [
+        {
+          "category_name": "搜索",
+          "sub_category_name": "搜索结果",
+          "index_symbol": "SH000808",
+          "index_name": "医药生物"
+        }
+      ],
+      "customTag": {
+        "category_name": "搜索",
+        "sub_category_name": "搜索结果",
+        "index_symbol": "SH000808",
+        "index_name": "医药生物"
+      },
+      "holdingAmount": null,
+      "lastCalculatedDate": null,
+      "transactions": null,
+      "calcHistory": null
+    },
     {
       "fundCode": "011839",
       "categoryIds": [
@@ -85,7 +144,19 @@
       },
       "holdingAmount": 441.57176986999997,
       "lastCalculatedDate": "2026-07-14",
-      "transactions": [],
+      "transactions": [
+        {
+          "id": "tx_1784092325950_4mgou",
+          "fundCode": "011839",
+          "type": "sell",
+          "amount": 220.79,
+          "createDate": "2026-07-14",
+          "timeRule": "before_15",
+          "effectiveDate": "2026-07-15",
+          "cancelDeadline": "2026-07-16",
+          "status": "pending"
+        }
+      ],
       "calcHistory": [
         {
           "date": "2026-07-14",
@@ -286,7 +357,19 @@
       },
       "holdingAmount": 0,
       "lastCalculatedDate": "2026-07-14",
-      "transactions": [],
+      "transactions": [
+        {
+          "id": "tx_1784092304660_f027i",
+          "fundCode": "017855",
+          "type": "buy",
+          "amount": 238.42,
+          "createDate": "2026-07-14",
+          "timeRule": "before_15",
+          "effectiveDate": "2026-07-15",
+          "cancelDeadline": "2026-07-16",
+          "status": "pending"
+        }
+      ],
       "calcHistory": [
         {
           "date": "2026-07-14",
@@ -340,7 +423,19 @@
       },
       "holdingAmount": 505.21302492,
       "lastCalculatedDate": "2026-07-14",
-      "transactions": [],
+      "transactions": [
+        {
+          "id": "tx_1784092277137_gfhun",
+          "fundCode": "020470",
+          "type": "sell",
+          "amount": 252.61,
+          "createDate": "2026-07-14",
+          "timeRule": "before_15",
+          "effectiveDate": "2026-07-15",
+          "cancelDeadline": "2026-07-16",
+          "status": "pending"
+        }
+      ],
       "calcHistory": [
         {
           "date": "2026-07-14",
@@ -353,6 +448,33 @@
           "holdingAfterYield": 505.21302492
         }
       ]
+    },
+    {
+      "fundCode": "023452",
+      "categoryIds": [
+        "all",
+        "cat_1784010096248"
+      ],
+      "note": "",
+      "name": "中欧信息科技混合发起C",
+      "customTags": [
+        {
+          "category_name": "搜索",
+          "sub_category_name": "搜索结果",
+          "index_symbol": "CSI931160",
+          "index_name": "中证全指通信设备"
+        }
+      ],
+      "customTag": {
+        "category_name": "搜索",
+        "sub_category_name": "搜索结果",
+        "index_symbol": "CSI931160",
+        "index_name": "中证全指通信设备"
+      },
+      "holdingAmount": null,
+      "lastCalculatedDate": null,
+      "transactions": null,
+      "calcHistory": null
     },
     {
       "fundCode": "024239",
@@ -422,7 +544,19 @@
       },
       "holdingAmount": 0,
       "lastCalculatedDate": "2026-07-14",
-      "transactions": [],
+      "transactions": [
+        {
+          "id": "tx_1784092340815_jppt7",
+          "fundCode": "519212",
+          "type": "buy",
+          "amount": 217.94,
+          "createDate": "2026-07-14",
+          "timeRule": "before_15",
+          "effectiveDate": "2026-07-15",
+          "cancelDeadline": "2026-07-16",
+          "status": "pending"
+        }
+      ],
       "calcHistory": [
         {
           "date": "2026-07-14",
@@ -438,6 +572,22 @@
     }
   ],
   "predictionHistory": [
+    {
+      "fundCode": "008619",
+      "date": "2026-07-15",
+      "rawEst": 3.5895,
+      "avgError": 0,
+      "compEst": 3.59,
+      "realChange": null
+    },
+    {
+      "fundCode": "010655",
+      "date": "2026-07-15",
+      "rawEst": 5.2631,
+      "avgError": 0,
+      "compEst": 5.26,
+      "realChange": null
+    },
     {
       "fundCode": "011839",
       "date": "2026-07-13",
@@ -457,9 +607,9 @@
     {
       "fundCode": "011839",
       "date": "2026-07-15",
-      "rawEst": -0.9845,
+      "rawEst": -1.0096,
       "avgError": -1.042,
-      "compEst": -2.03,
+      "compEst": -2.05,
       "realChange": null
     },
     {
@@ -479,6 +629,14 @@
       "realChange": -0.2577
     },
     {
+      "fundCode": "014064",
+      "date": "2026-07-15",
+      "rawEst": 2.3865,
+      "avgError": -0.1272,
+      "compEst": 2.26,
+      "realChange": null
+    },
+    {
       "fundCode": "014881",
       "date": "2026-07-13",
       "rawEst": -0.0443,
@@ -495,11 +653,27 @@
       "realChange": 0.6259
     },
     {
+      "fundCode": "014881",
+      "date": "2026-07-15",
+      "rawEst": -0.0026,
+      "avgError": -2.3976,
+      "compEst": -2.4,
+      "realChange": null
+    },
+    {
       "fundCode": "015566",
       "date": "2026-07-14",
       "rawEst": 3.062,
       "avgError": 0,
       "compEst": 3.06,
+      "realChange": 2.957
+    },
+    {
+      "fundCode": "015566",
+      "date": "2026-07-15",
+      "rawEst": 0.3347,
+      "avgError": -0.105,
+      "compEst": 0.23,
       "realChange": null
     },
     {
@@ -551,12 +725,28 @@
       "realChange": -0.3383
     },
     {
+      "fundCode": "017811",
+      "date": "2026-07-15",
+      "rawEst": -4.0123,
+      "avgError": -0.0386,
+      "compEst": -4.05,
+      "realChange": null
+    },
+    {
       "fundCode": "017855",
       "date": "2026-07-14",
       "rawEst": 0,
       "avgError": 0,
       "compEst": 4.073951,
       "realChange": 2.7188
+    },
+    {
+      "fundCode": "017855",
+      "date": "2026-07-15",
+      "rawEst": 0,
+      "avgError": 0,
+      "compEst": 0.407357,
+      "realChange": null
     },
     {
       "fundCode": "018230",
@@ -591,11 +781,35 @@
       "realChange": 0.1076
     },
     {
+      "fundCode": "020470",
+      "date": "2026-07-15",
+      "rawEst": -2.2859,
+      "avgError": 0.557,
+      "compEst": -1.73,
+      "realChange": null
+    },
+    {
+      "fundCode": "023452",
+      "date": "2026-07-14",
+      "rawEst": 3.9488,
+      "avgError": 0,
+      "compEst": 3.95,
+      "realChange": null
+    },
+    {
       "fundCode": "024239",
       "date": "2026-07-14",
       "rawEst": -1.731,
       "avgError": 0,
       "compEst": -1.73,
+      "realChange": null
+    },
+    {
+      "fundCode": "024239",
+      "date": "2026-07-15",
+      "rawEst": 0.8878,
+      "avgError": 0,
+      "compEst": 0.89,
       "realChange": null
     },
     {
@@ -613,6 +827,14 @@
       "avgError": 0,
       "compEst": 4.36,
       "realChange": 3.6482
+    },
+    {
+      "fundCode": "519212",
+      "date": "2026-07-15",
+      "rawEst": 0.8097,
+      "avgError": -0.7116,
+      "compEst": 0.1,
+      "realChange": null
     }
   ],
   "extensionTabs": [
