@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportedAt": "2026-07-15T01:50:18.308Z",
+  "exportedAt": "2026-07-15T01:51:39.351Z",
   "categories": [
     {
       "id": "all",
@@ -613,6 +613,48 @@
       "avgError": 0,
       "compEst": 4.36,
       "realChange": 3.6482
+    }
+  ],
+  "extensionTabs": [
+    {
+      "id": "ext_1784079928748_a0pr",
+      "name": "财新",
+      "url": "https://www.caixin.com/"
+    },
+    {
+      "id": "ext_1784079974955_tl3e",
+      "name": "第一财经",
+      "url": "https://www.yicai.com/"
+    },
+    {
+      "id": "ext_1784080022113_7lcp",
+      "name": "财联社",
+      "url": "https://www.cls.cn/"
+    },
+    {
+      "id": "ext_1784080049392_z6aj",
+      "name": "金十数据",
+      "url": "https://www.jin10.com/"
+    },
+    {
+      "id": "ext_1784080073015_whr8",
+      "name": "东方财富网",
+      "url": "https://www.eastmoney.com/"
+    },
+    {
+      "id": "ext_1784080102342_gl7w",
+      "name": "华尔街见闻",
+      "url": "https://wallstreetcn.com/"
+    },
+    {
+      "id": "ext_1784080125313_luc1",
+      "name": "雪球",
+      "url": "https://xueqiu.com/"
+    },
+    {
+      "id": "ext_1784080170632_c479",
+      "name": "同花顺",
+      "url": "https://www.10jqka.com.cn/"
     }
   ]
 }
