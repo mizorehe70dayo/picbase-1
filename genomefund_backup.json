@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportedAt": "2026-07-14T14:35:33.315Z",
+  "exportedAt": "2026-07-15T01:50:18.308Z",
   "categories": [
     {
       "id": "all",
@@ -51,11 +51,6 @@
       "id": "cat_1784011552041",
       "name": "定投",
       "order": 9
-    },
-    {
-      "id": "cat_1784039658584",
-      "name": "医药",
-      "order": 10
     }
   ],
   "funds": [
@@ -321,33 +316,6 @@
       "calcHistory": null
     },
     {
-      "fundCode": "019667",
-      "categoryIds": [
-        "all",
-        "cat_1784039658584"
-      ],
-      "note": "",
-      "name": "易方达中证创新药产业ETF联接发起式C",
-      "customTags": [
-        {
-          "category_name": "搜索",
-          "sub_category_name": "搜索结果",
-          "index_symbol": "CSI931152",
-          "index_name": "CS创新药"
-        }
-      ],
-      "customTag": {
-        "category_name": "搜索",
-        "sub_category_name": "搜索结果",
-        "index_symbol": "CSI931152",
-        "index_name": "CS创新药"
-      },
-      "holdingAmount": null,
-      "lastCalculatedDate": null,
-      "transactions": null,
-      "calcHistory": null
-    },
-    {
       "fundCode": "020470",
       "categoryIds": [
         "all",
@@ -487,6 +455,14 @@
       "realChange": 1.6533
     },
     {
+      "fundCode": "011839",
+      "date": "2026-07-15",
+      "rawEst": -0.9845,
+      "avgError": -1.042,
+      "compEst": -2.03,
+      "realChange": null
+    },
+    {
       "fundCode": "014064",
       "date": "2026-07-13",
       "rawEst": 1.0659,
@@ -580,7 +556,7 @@
       "rawEst": 0,
       "avgError": 0,
       "compEst": 4.073951,
-      "realChange": null
+      "realChange": 2.7188
     },
     {
       "fundCode": "018230",
@@ -596,14 +572,6 @@
       "rawEst": 2.041,
       "avgError": -1.1237,
       "compEst": 0.92,
-      "realChange": null
-    },
-    {
-      "fundCode": "019667",
-      "date": "2026-07-14",
-      "rawEst": 0,
-      "avgError": 0,
-      "compEst": 3.31,
       "realChange": null
     },
     {
@@ -625,9 +593,9 @@
     {
       "fundCode": "024239",
       "date": "2026-07-14",
-      "rawEst": 0.8694,
+      "rawEst": -1.731,
       "avgError": 0,
-      "compEst": 0.87,
+      "compEst": -1.73,
       "realChange": null
     },
     {
