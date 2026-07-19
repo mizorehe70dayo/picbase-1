@@ -15,7 +15,7 @@
     "fixed": 18634,
     "invest": 37269
   },
-  "loanBalance": 0,
+  "loanBalance": 2700,
   "transactions": [
     {
       "id": "tx-1784459357432-89fxh8vdd",
@@ -23,6 +23,13 @@
       "amount": 0,
       "timestamp": 1784459357432,
       "description": "比例配置修改及重平衡：新比例（日常 50% / 应急 20% / 固收 10% / 投资 20%）。明细：日常池存入 ¥931.72，应急池存入 ¥372.69，固收池存入 ¥186.34，投资池存入 ¥372.69"
+    },
+    {
+      "id": "tx-1784459370342-bq9zhn5a7",
+      "type": "EXPENSE",
+      "amount": 2700,
+      "timestamp": 1784459370342,
+      "description": "支出登记 [计入贷款池]: 鸣潮月卡"
     }
   ],
   "dailySnapshots": [
@@ -32,9 +39,9 @@
       "emergency": 37269,
       "fixed": 18634,
       "invest": 37269,
-      "loanBalance": 0,
-      "netWorth": 186344
+      "loanBalance": 2700,
+      "netWorth": 183644
     }
   ],
-  "lastUpdated": 1784459357447
+  "lastUpdated": 1784459371225
 }
