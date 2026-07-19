@@ -7,62 +7,34 @@
       "fixed": 10,
       "invest": 20
     },
-    "updatedAt": 1784465563621
+    "updatedAt": 1784466078379
   },
   "snapshots": {
-    "daily": 146179,
-    "emergency": 58472,
-    "fixed": 29236,
-    "invest": 58471
+    "daily": 127529,
+    "emergency": 51012,
+    "fixed": 25506,
+    "invest": 51011
   },
-  "loanBalance": 60520,
+  "loanBalance": 0,
   "transactions": [
     {
-      "id": "tx-1784465563630-jdcwavfg6",
+      "id": "tx-1784466078385-lega51ab4",
       "type": "CONFIG_CHANGE",
       "amount": 0,
-      "timestamp": 1784465563631,
-      "description": "比例配置修改及重平衡：新比例（日常 50% / 应急 20% / 固收 10% / 投资 20%）。明细：日常池存入 ¥1461.79，应急池存入 ¥584.72，固收池存入 ¥292.36，投资池存入 ¥584.71"
-    },
-    {
-      "id": "tx-1784465634762-dk4ltkymh",
-      "type": "EXPENSE",
-      "amount": 23863,
-      "timestamp": 1784465634762,
-      "description": "支出登记 [计入贷款池]: 花呗欠款"
-    },
-    {
-      "id": "tx-1784465680296-2em90lrq8",
-      "type": "EXPENSE",
-      "amount": 30307,
-      "timestamp": 1784465680296,
-      "description": "支出登记 [计入贷款池]: 白条欠款"
-    },
-    {
-      "id": "tx-1784465720709-zzwy6ob4u",
-      "type": "EXPENSE",
-      "amount": 3650,
-      "timestamp": 1784465720709,
-      "description": "支出登记 [计入贷款池]: 抖音欠款"
-    },
-    {
-      "id": "tx-1784465856955-wqhx2ku4a",
-      "type": "EXPENSE",
-      "amount": 2700,
-      "timestamp": 1784465856955,
-      "description": "支出登记 [计入贷款池]: 鸣潮月卡"
+      "timestamp": 1784466078385,
+      "description": "比例配置修改及重平衡：新比例（日常 50% / 应急 20% / 固收 10% / 投资 20%）。明细：日常池存入 ¥1275.29，应急池存入 ¥510.12，固收池存入 ¥255.06，投资池存入 ¥510.11"
     }
   ],
   "dailySnapshots": [
     {
       "date": "2026-07-19",
-      "daily": 146179,
-      "emergency": 58472,
-      "fixed": 29236,
-      "invest": 58471,
-      "loanBalance": 60520,
-      "netWorth": 231838
+      "daily": 127529,
+      "emergency": 51012,
+      "fixed": 25506,
+      "invest": 51011,
+      "loanBalance": 0,
+      "netWorth": 255058
     }
   ],
-  "lastUpdated": 1784465858532
+  "lastUpdated": 1784466078412
 }
