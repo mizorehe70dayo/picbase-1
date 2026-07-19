@@ -1,0 +1,22 @@
+{
+  "poolConfig": {
+    "id": "current",
+    "ratios": {
+      "daily": 50,
+      "emergency": 20,
+      "fixed": 10,
+      "invest": 20
+    },
+    "updatedAt": 1784451829363
+  },
+  "snapshots": {
+    "daily": 0,
+    "emergency": 0,
+    "fixed": 0,
+    "invest": 0
+  },
+  "loanBalance": 0,
+  "transactions": [],
+  "dailySnapshots": [],
+  "lastUpdated": 1784457423761
+}
