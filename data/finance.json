@@ -15,7 +15,7 @@
     "fixed": 29236,
     "invest": 58471
   },
-  "loanBalance": 23863,
+  "loanBalance": 57820,
   "transactions": [
     {
       "id": "tx-1784465563630-jdcwavfg6",
@@ -30,6 +30,20 @@
       "amount": 23863,
       "timestamp": 1784465634762,
       "description": "支出登记 [计入贷款池]: 花呗欠款"
+    },
+    {
+      "id": "tx-1784465680296-2em90lrq8",
+      "type": "EXPENSE",
+      "amount": 30307,
+      "timestamp": 1784465680296,
+      "description": "支出登记 [计入贷款池]: 白条欠款"
+    },
+    {
+      "id": "tx-1784465720709-zzwy6ob4u",
+      "type": "EXPENSE",
+      "amount": 3650,
+      "timestamp": 1784465720709,
+      "description": "支出登记 [计入贷款池]: 抖音欠款"
     }
   ],
   "dailySnapshots": [
@@ -39,9 +53,9 @@
       "emergency": 58472,
       "fixed": 29236,
       "invest": 58471,
-      "loanBalance": 23863,
-      "netWorth": 268495
+      "loanBalance": 57820,
+      "netWorth": 234538
     }
   ],
-  "lastUpdated": 1784465636237
+  "lastUpdated": 1784465722030
 }
