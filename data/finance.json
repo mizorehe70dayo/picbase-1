@@ -7,16 +7,34 @@
       "fixed": 10,
       "invest": 20
     },
-    "updatedAt": 1784451829363
+    "updatedAt": 1784458001132
   },
   "snapshots": {
-    "daily": 0,
-    "emergency": 0,
-    "fixed": 0,
-    "invest": 0
+    "daily": 93172,
+    "emergency": 37269,
+    "fixed": 18634,
+    "invest": 37269
   },
   "loanBalance": 0,
-  "transactions": [],
-  "dailySnapshots": [],
-  "lastUpdated": 1784457423761
+  "transactions": [
+    {
+      "id": "tx-1784458001135-b7m1j7e35",
+      "type": "CONFIG_CHANGE",
+      "amount": 0,
+      "timestamp": 1784458001135,
+      "description": "比例配置修改及重平衡：新比例（日常 50% / 应急 20% / 固收 10% / 投资 20%）。明细：日常池存入 ¥931.72，应急池存入 ¥372.69，固收池存入 ¥186.34，投资池存入 ¥372.69"
+    }
+  ],
+  "dailySnapshots": [
+    {
+      "date": "2026-07-19",
+      "daily": 93172,
+      "emergency": 37269,
+      "fixed": 18634,
+      "invest": 37269,
+      "loanBalance": 0,
+      "netWorth": 186344
+    }
+  ],
+  "lastUpdated": 1784458002684
 }
