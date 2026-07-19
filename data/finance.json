@@ -10,7 +10,7 @@
     "updatedAt": 1784458001132
   },
   "snapshots": {
-    "daily": 93172,
+    "daily": 90472,
     "emergency": 37269,
     "fixed": 18634,
     "invest": 37269
@@ -23,18 +23,26 @@
       "amount": 0,
       "timestamp": 1784458001135,
       "description": "比例配置修改及重平衡：新比例（日常 50% / 应急 20% / 固收 10% / 投资 20%）。明细：日常池存入 ¥931.72，应急池存入 ¥372.69，固收池存入 ¥186.34，投资池存入 ¥372.69"
+    },
+    {
+      "id": "tx-1784458036950-cheon4ctc",
+      "type": "EXPENSE",
+      "amount": 2700,
+      "fromPoolId": "daily",
+      "timestamp": 1784458036950,
+      "description": "支出记录 [日常池]: 鸣潮月卡"
     }
   ],
   "dailySnapshots": [
     {
       "date": "2026-07-19",
-      "daily": 93172,
+      "daily": 90472,
       "emergency": 37269,
       "fixed": 18634,
       "invest": 37269,
       "loanBalance": 0,
-      "netWorth": 186344
+      "netWorth": 183644
     }
   ],
-  "lastUpdated": 1784458002684
+  "lastUpdated": 1784458188719
 }
