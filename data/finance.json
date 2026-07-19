@@ -15,7 +15,7 @@
     "fixed": 25506,
     "invest": 51011
   },
-  "loanBalance": 0,
+  "loanBalance": 54170,
   "transactions": [
     {
       "id": "tx-1784466078385-lega51ab4",
@@ -23,6 +23,20 @@
       "amount": 0,
       "timestamp": 1784466078385,
       "description": "比例配置修改及重平衡：新比例（日常 50% / 应急 20% / 固收 10% / 投资 20%）。明细：日常池存入 ¥1275.29，应急池存入 ¥510.12，固收池存入 ¥255.06，投资池存入 ¥510.11"
+    },
+    {
+      "id": "tx-1784466110332-us8m8vhf2",
+      "type": "EXPENSE",
+      "amount": 23863,
+      "timestamp": 1784466110332,
+      "description": "支出登记 [计入贷款池]: 花呗欠款"
+    },
+    {
+      "id": "tx-1784466135586-000jucs1p",
+      "type": "EXPENSE",
+      "amount": 30307,
+      "timestamp": 1784466135586,
+      "description": "支出登记 [计入贷款池]: 白条欠款"
     }
   ],
   "dailySnapshots": [
@@ -32,9 +46,9 @@
       "emergency": 51012,
       "fixed": 25506,
       "invest": 51011,
-      "loanBalance": 0,
-      "netWorth": 255058
+      "loanBalance": 54170,
+      "netWorth": 200888
     }
   ],
-  "lastUpdated": 1784466078412
+  "lastUpdated": 1784466136624
 }
