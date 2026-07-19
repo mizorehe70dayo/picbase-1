@@ -7,54 +7,34 @@
       "fixed": 10,
       "invest": 20
     },
-    "updatedAt": 1784459357428
+    "updatedAt": 1784465563621
   },
   "snapshots": {
-    "daily": 109172,
-    "emergency": 51669,
-    "fixed": 21834,
-    "invest": 43669
+    "daily": 146179,
+    "emergency": 58472,
+    "fixed": 29236,
+    "invest": 58471
   },
-  "loanBalance": -5300,
+  "loanBalance": 0,
   "transactions": [
     {
-      "id": "tx-1784459357432-89fxh8vdd",
+      "id": "tx-1784465563630-jdcwavfg6",
       "type": "CONFIG_CHANGE",
       "amount": 0,
-      "timestamp": 1784459357432,
-      "description": "比例配置修改及重平衡：新比例（日常 50% / 应急 20% / 固收 10% / 投资 20%）。明细：日常池存入 ¥931.72，应急池存入 ¥372.69，固收池存入 ¥186.34，投资池存入 ¥372.69"
-    },
-    {
-      "id": "tx-1784459370342-bq9zhn5a7",
-      "type": "EXPENSE",
-      "amount": 2700,
-      "timestamp": 1784459370342,
-      "description": "支出登记 [计入贷款池]: 鸣潮月卡"
-    },
-    {
-      "id": "tx-1784459454575-m3qejuv4a",
-      "type": "INCOME",
-      "amount": 40000,
-      "timestamp": 1784459454575,
-      "description": "[生活费] 收入分配：总入账 ¥400.00，其中划扣 ¥80.00 偿还欠款并存入应急池，剩余 ¥320.00 按比例分账。",
-      "configSnapshot": {
-        "daily": 50,
-        "emergency": 20,
-        "fixed": 10,
-        "invest": 20
-      }
+      "timestamp": 1784465563631,
+      "description": "比例配置修改及重平衡：新比例（日常 50% / 应急 20% / 固收 10% / 投资 20%）。明细：日常池存入 ¥1461.79，应急池存入 ¥584.72，固收池存入 ¥292.36，投资池存入 ¥584.71"
     }
   ],
   "dailySnapshots": [
     {
       "date": "2026-07-19",
-      "daily": 109172,
-      "emergency": 51669,
-      "fixed": 21834,
-      "invest": 43669,
-      "loanBalance": -5300,
-      "netWorth": 226344
+      "daily": 146179,
+      "emergency": 58472,
+      "fixed": 29236,
+      "invest": 58471,
+      "loanBalance": 0,
+      "netWorth": 292358
     }
   ],
-  "lastUpdated": 1784459455735
+  "lastUpdated": 1784465563659
 }
