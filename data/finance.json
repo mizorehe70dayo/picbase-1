@@ -10,12 +10,12 @@
     "updatedAt": 1784466078379
   },
   "snapshots": {
-    "daily": 127529,
-    "emergency": 51012,
-    "fixed": 25506,
-    "invest": 51011
+    "daily": 143529,
+    "emergency": 65412,
+    "fixed": 28706,
+    "invest": 57411
   },
-  "loanBalance": 54170,
+  "loanBalance": 52520,
   "transactions": [
     {
       "id": "tx-1784466078385-lega51ab4",
@@ -37,18 +37,45 @@
       "amount": 30307,
       "timestamp": 1784466135586,
       "description": "支出登记 [计入贷款池]: 白条欠款"
+    },
+    {
+      "id": "tx-1784466148954-mxrwziuwj",
+      "type": "EXPENSE",
+      "amount": 3650,
+      "timestamp": 1784466148954,
+      "description": "支出登记 [计入贷款池]: 抖音欠款"
+    },
+    {
+      "id": "tx-1784466160115-q4dloob5t",
+      "type": "EXPENSE",
+      "amount": 2700,
+      "timestamp": 1784466160115,
+      "description": "支出登记 [计入贷款池]: 鸣潮月卡"
+    },
+    {
+      "id": "tx-1784466204646-gtosm29zk",
+      "type": "INCOME",
+      "amount": 40000,
+      "timestamp": 1784466204646,
+      "description": "[生活费] 收入分配：总入账 ¥400.00，其中划扣 ¥80.00 偿还欠款并存入应急池，剩余 ¥320.00 按比例分账。",
+      "configSnapshot": {
+        "daily": 50,
+        "emergency": 20,
+        "fixed": 10,
+        "invest": 20
+      }
     }
   ],
   "dailySnapshots": [
     {
       "date": "2026-07-19",
-      "daily": 127529,
-      "emergency": 51012,
-      "fixed": 25506,
-      "invest": 51011,
-      "loanBalance": 54170,
-      "netWorth": 200888
+      "daily": 143529,
+      "emergency": 65412,
+      "fixed": 28706,
+      "invest": 57411,
+      "loanBalance": 52520,
+      "netWorth": 242538
     }
   ],
-  "lastUpdated": 1784466136624
+  "lastUpdated": 1784466206011
 }
