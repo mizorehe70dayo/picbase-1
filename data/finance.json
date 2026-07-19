@@ -1,40 +1,43 @@
 {
-  "poolConfig": {
-    "id": "current",
-    "ratios": {
-      "daily": 50,
-      "emergency": 20,
-      "fixed": 10,
-      "invest": 20
-    },
-    "updatedAt": 1784458248629
-  },
   "snapshots": {
-    "daily": 93172,
-    "emergency": 37269,
-    "fixed": 18634,
-    "invest": 37269
+    "daily": 480,
+    "emergency": 432,
+    "fixed": 96,
+    "invest": 192
   },
-  "loanBalance": 0,
+  "loanBalance": 960,
   "transactions": [
     {
-      "id": "tx-1784458248632-5ah2pfqn3",
-      "type": "CONFIG_CHANGE",
-      "amount": 0,
-      "timestamp": 1784458248632,
-      "description": "比例配置修改及重平衡：新比例（日常 50% / 应急 20% / 固收 10% / 投资 20%）。明细：日常池存入 ¥931.72，应急池存入 ¥372.69，固收池存入 ¥186.34，投资池存入 ¥372.69"
+      "id": "tx-1784458295341-e84vzs7q6",
+      "type": "EXPENSE",
+      "amount": 1200,
+      "timestamp": 1784458295341,
+      "description": "支出登记 [计入贷款池]: 12"
+    },
+    {
+      "id": "tx-1784458310876-jgfsdloja",
+      "type": "INCOME",
+      "amount": 1200,
+      "timestamp": 1784458310876,
+      "description": "收入分配：总入账 ¥12.00，其中划扣 ¥2.40 偿还欠款并存入应急池，剩余 ¥9.60 按比例分账。",
+      "configSnapshot": {
+        "daily": 50,
+        "emergency": 20,
+        "fixed": 10,
+        "invest": 20
+      }
     }
   ],
   "dailySnapshots": [
     {
       "date": "2026-07-19",
-      "daily": 93172,
-      "emergency": 37269,
-      "fixed": 18634,
-      "invest": 37269,
-      "loanBalance": 0,
-      "netWorth": 186344
+      "daily": 480,
+      "emergency": 432,
+      "fixed": 96,
+      "invest": 192,
+      "loanBalance": 960,
+      "netWorth": 240
     }
   ],
-  "lastUpdated": 1784458252587
+  "lastUpdated": 1784458311976
 }
