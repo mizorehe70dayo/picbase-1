@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportedAt": "2026-07-21T02:50:45.838Z",
+  "exportedAt": "2026-07-21T13:19:51.519Z",
   "categories": [
     {
       "id": "all",
@@ -114,10 +114,21 @@
         "index_symbol": "SH000808",
         "index_name": "医药生物"
       },
-      "holdingAmount": 223.27,
-      "lastCalculatedDate": "2026-07-20",
+      "holdingAmount": 223.46,
+      "lastCalculatedDate": "2026-07-21",
       "transactions": null,
-      "calcHistory": []
+      "calcHistory": [
+        {
+          "date": "2026-07-21",
+          "holdingBefore": 223.27,
+          "txAmount": 0,
+          "holdingAfterTx": 223.27,
+          "yieldRate": 0.0831,
+          "isRealYield": true,
+          "earnings": 0.19,
+          "holdingAfterYield": 223.46
+        }
+      ]
     },
     {
       "fundCode": "011839",
@@ -187,8 +198,8 @@
         "index_symbol": "CSI000949",
         "index_name": "中证农业"
       },
-      "holdingAmount": 210.91,
-      "lastCalculatedDate": "2026-07-20",
+      "holdingAmount": 205.42,
+      "lastCalculatedDate": "2026-07-21",
       "transactions": null,
       "calcHistory": [
         {
@@ -200,6 +211,16 @@
           "isRealYield": true,
           "earnings": 1.54,
           "holdingAfterYield": 210.91
+        },
+        {
+          "date": "2026-07-21",
+          "holdingBefore": 210.91,
+          "txAmount": 0,
+          "holdingAfterTx": 210.91,
+          "yieldRate": -2.6019,
+          "isRealYield": true,
+          "earnings": -5.49,
+          "holdingAfterYield": 205.42
         }
       ]
     },
@@ -262,10 +283,21 @@
         "index_symbol": "SZ399998",
         "index_name": "中证煤炭"
       },
-      "holdingAmount": 57.65,
-      "lastCalculatedDate": "2026-07-20",
+      "holdingAmount": 56.95,
+      "lastCalculatedDate": "2026-07-21",
       "transactions": null,
-      "calcHistory": []
+      "calcHistory": [
+        {
+          "date": "2026-07-21",
+          "holdingBefore": 57.65,
+          "txAmount": 0,
+          "holdingAfterTx": 57.65,
+          "yieldRate": -1.2098,
+          "isRealYield": true,
+          "earnings": -0.7,
+          "holdingAfterYield": 56.95
+        }
+      ]
     },
     {
       "fundCode": "016452",
@@ -359,8 +391,8 @@
         "index_symbol": "SPISPSIOPTR",
         "index_name": "标普石油天然气上游股票全收益指数"
       },
-      "holdingAmount": 118.07,
-      "lastCalculatedDate": "2026-07-20",
+      "holdingAmount": 118.86,
+      "lastCalculatedDate": "2026-07-21",
       "transactions": [
         {
           "id": "tx_1784092304660_f027i",
@@ -374,7 +406,18 @@
           "status": "completed"
         }
       ],
-      "calcHistory": []
+      "calcHistory": [
+        {
+          "date": "2026-07-21",
+          "holdingBefore": 118.07,
+          "txAmount": 0,
+          "holdingAfterTx": 118.07,
+          "yieldRate": 0.6681,
+          "isRealYield": true,
+          "earnings": 0.79,
+          "holdingAfterYield": 118.86
+        }
+      ]
     },
     {
       "fundCode": "018230",
@@ -495,8 +538,8 @@
       "name": "华夏全球科技先锋混合(QDII)C",
       "customTags": null,
       "customTag": null,
-      "holdingAmount": 78.65,
-      "lastCalculatedDate": "2026-07-17",
+      "holdingAmount": 78.34,
+      "lastCalculatedDate": "2026-07-20",
       "transactions": [],
       "calcHistory": [
         {
@@ -528,6 +571,16 @@
           "isRealYield": true,
           "earnings": -4.92,
           "holdingAfterYield": 78.65
+        },
+        {
+          "date": "2026-07-20",
+          "holdingBefore": 78.65,
+          "txAmount": 0,
+          "holdingAfterTx": 78.65,
+          "yieldRate": -0.3954,
+          "isRealYield": true,
+          "earnings": -0.31,
+          "holdingAfterYield": 78.34
         }
       ]
     },
@@ -597,8 +650,8 @@
         "index_symbol": "SZ399998",
         "index_name": "中证煤炭"
       },
-      "holdingAmount": 114.54,
-      "lastCalculatedDate": "2026-07-20",
+      "holdingAmount": 115.31,
+      "lastCalculatedDate": "2026-07-21",
       "transactions": [
         {
           "id": "tx_1784092340815_jppt7",
@@ -612,7 +665,18 @@
           "status": "completed"
         }
       ],
-      "calcHistory": []
+      "calcHistory": [
+        {
+          "date": "2026-07-21",
+          "holdingBefore": 114.54,
+          "txAmount": 0,
+          "holdingAfterTx": 114.54,
+          "yieldRate": 0.673,
+          "isRealYield": true,
+          "earnings": 0.77,
+          "holdingAfterYield": 115.31
+        }
+      ]
     }
   ],
   "predictionHistory": [
@@ -651,10 +715,10 @@
     {
       "fundCode": "008619",
       "date": "2026-07-21",
-      "rawEst": -0.7058,
-      "avgError": -1.3127,
-      "compEst": -2.02,
-      "realChange": null
+      "rawEst": 1.5397,
+      "avgError": -0.6006,
+      "compEst": 0.94,
+      "realChange": 1.3753
     },
     {
       "fundCode": "010655",
