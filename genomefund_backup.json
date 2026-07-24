@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportedAt": "2026-07-23T08:01:18.622Z",
+  "exportedAt": "2026-07-24T06:57:56.458Z",
   "categories": [
     {
       "id": "all",
@@ -130,8 +130,8 @@
         "index_symbol": "SH000808",
         "index_name": "医药生物"
       },
-      "holdingAmount": 222.94,
-      "lastCalculatedDate": "2026-07-22",
+      "holdingAmount": 223.1,
+      "lastCalculatedDate": "2026-07-23",
       "transactions": null,
       "calcHistory": [
         {
@@ -153,6 +153,16 @@
           "isRealYield": true,
           "earnings": -0.52,
           "holdingAfterYield": 222.94
+        },
+        {
+          "date": "2026-07-23",
+          "holdingBefore": 222.94,
+          "txAmount": 0,
+          "holdingAfterTx": 222.94,
+          "yieldRate": 0.074,
+          "isRealYield": true,
+          "earnings": 0.16,
+          "holdingAfterYield": 223.1
         }
       ]
     },
@@ -508,8 +518,8 @@
       "name": "华夏全球科技先锋混合(QDII)C",
       "customTags": null,
       "customTag": null,
-      "holdingAmount": 82.05,
-      "lastCalculatedDate": "2026-07-21",
+      "holdingAmount": 80.5,
+      "lastCalculatedDate": "2026-07-22",
       "transactions": [],
       "calcHistory": [
         {
@@ -561,6 +571,16 @@
           "isRealYield": true,
           "earnings": 3.71,
           "holdingAfterYield": 82.05
+        },
+        {
+          "date": "2026-07-22",
+          "holdingBefore": 82.05,
+          "txAmount": 0,
+          "holdingAfterTx": 82.05,
+          "yieldRate": -1.8885,
+          "isRealYield": true,
+          "earnings": -1.55,
+          "holdingAfterYield": 80.5
         }
       ]
     },
@@ -614,8 +634,8 @@
         "index_symbol": "SZ399998",
         "index_name": "中证煤炭"
       },
-      "holdingAmount": 115.63,
-      "lastCalculatedDate": "2026-07-22",
+      "holdingAmount": 116.45,
+      "lastCalculatedDate": "2026-07-23",
       "transactions": [
         {
           "id": "tx_1784092340815_jppt7",
@@ -649,6 +669,16 @@
           "isRealYield": true,
           "earnings": 0.32,
           "holdingAfterYield": 115.63
+        },
+        {
+          "date": "2026-07-23",
+          "holdingBefore": 115.63,
+          "txAmount": 0,
+          "holdingAfterTx": 115.63,
+          "yieldRate": 0.7064,
+          "isRealYield": true,
+          "earnings": 0.82,
+          "holdingAfterYield": 116.45
         }
       ]
     }
@@ -660,6 +690,14 @@
       "rawEst": 0.7991,
       "avgError": 0,
       "compEst": 0.8,
+      "realChange": null
+    },
+    {
+      "fundCode": "004243",
+      "date": "2026-07-24",
+      "rawEst": -0.2182,
+      "avgError": 0,
+      "compEst": -0.22,
       "realChange": null
     },
     {
