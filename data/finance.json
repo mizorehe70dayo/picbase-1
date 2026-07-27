@@ -15,7 +15,7 @@
     "fixed": 29986,
     "invest": 59971
   },
-  "loanBalance": 25320,
+  "loanBalance": 30800,
   "transactions": [
     {
       "id": "tx-1784466078385-lega51ab4",
@@ -77,6 +77,13 @@
         "fixed": 10,
         "invest": 20
       }
+    },
+    {
+      "id": "tx-1785137683174-sg6m5otqr",
+      "type": "EXPENSE",
+      "amount": 5480,
+      "timestamp": 1785137683174,
+      "description": "支出登记 [计入贷款池]: 网易云音乐vip年卡"
     }
   ],
   "dailySnapshots": [
@@ -97,7 +104,16 @@
       "invest": 59971,
       "loanBalance": 25320,
       "netWorth": 309738
+    },
+    {
+      "date": "2026-07-27",
+      "daily": 149929,
+      "emergency": 95172,
+      "fixed": 29986,
+      "invest": 59971,
+      "loanBalance": 30800,
+      "netWorth": 304258
     }
   ],
-  "lastUpdated": 1785046500589
+  "lastUpdated": 1785137683182
 }
