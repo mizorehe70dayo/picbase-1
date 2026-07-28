@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportedAt": "2026-07-28T05:24:19.051Z",
+  "exportedAt": "2026-07-28T07:00:33.290Z",
   "categories": [
     {
       "id": "all",
@@ -231,8 +231,20 @@
       ],
       "note": "",
       "name": "易方达上证科创50ETF联接C",
-      "customTags": null,
-      "customTag": null,
+      "customTags": [
+        {
+          "category_name": "搜索",
+          "sub_category_name": "搜索结果",
+          "index_symbol": "SH000016",
+          "index_name": "上证50"
+        }
+      ],
+      "customTag": {
+        "category_name": "搜索",
+        "sub_category_name": "搜索结果",
+        "index_symbol": "SH000016",
+        "index_name": "上证50"
+      },
       "holdingAmount": 66.44,
       "lastCalculatedDate": "2026-07-27",
       "transactions": null,
@@ -567,103 +579,6 @@
       "calcHistory": null
     },
     {
-      "fundCode": "024239",
-      "categoryIds": [
-        "all",
-        "cat_1784009952345",
-        "holdings"
-      ],
-      "note": "",
-      "name": "华夏全球科技先锋混合(QDII)C",
-      "customTags": null,
-      "customTag": null,
-      "holdingAmount": 77.03,
-      "lastCalculatedDate": "2026-07-24",
-      "transactions": [],
-      "calcHistory": [
-        {
-          "date": "2026-07-15",
-          "holdingBefore": 90.79,
-          "txAmount": 0,
-          "holdingAfterTx": 90.79,
-          "yieldRate": -2.8363,
-          "isRealYield": true,
-          "earnings": -2.58,
-          "holdingAfterYield": 88.21
-        },
-        {
-          "date": "2026-07-16",
-          "holdingBefore": 88.21,
-          "txAmount": 0,
-          "holdingAfterTx": 88.21,
-          "yieldRate": -5.2633,
-          "isRealYield": true,
-          "earnings": -4.64,
-          "holdingAfterYield": 83.57
-        },
-        {
-          "date": "2026-07-17",
-          "holdingBefore": 83.57,
-          "txAmount": 0,
-          "holdingAfterTx": 83.57,
-          "yieldRate": -5.8843,
-          "isRealYield": true,
-          "earnings": -4.92,
-          "holdingAfterYield": 78.65
-        },
-        {
-          "date": "2026-07-20",
-          "holdingBefore": 78.65,
-          "txAmount": 0,
-          "holdingAfterTx": 78.65,
-          "yieldRate": -0.3954,
-          "isRealYield": true,
-          "earnings": -0.31,
-          "holdingAfterYield": 78.34
-        },
-        {
-          "date": "2026-07-21",
-          "holdingBefore": 78.34,
-          "txAmount": 0,
-          "holdingAfterTx": 78.34,
-          "yieldRate": 4.7355,
-          "isRealYield": true,
-          "earnings": 3.71,
-          "holdingAfterYield": 82.05
-        },
-        {
-          "date": "2026-07-22",
-          "holdingBefore": 82.05,
-          "txAmount": 0,
-          "holdingAfterTx": 82.05,
-          "yieldRate": -1.8885,
-          "isRealYield": true,
-          "earnings": -1.55,
-          "holdingAfterYield": 80.5
-        },
-        {
-          "date": "2026-07-23",
-          "holdingBefore": 80.5,
-          "txAmount": 0,
-          "holdingAfterTx": 80.5,
-          "yieldRate": -1.2217,
-          "isRealYield": true,
-          "earnings": -0.98,
-          "holdingAfterYield": 79.52
-        },
-        {
-          "date": "2026-07-24",
-          "holdingBefore": 79.52,
-          "txAmount": 0,
-          "holdingAfterTx": 79.52,
-          "yieldRate": -3.1361,
-          "isRealYield": true,
-          "earnings": -2.49,
-          "holdingAfterYield": 77.03
-        }
-      ]
-    },
-    {
       "fundCode": "024424",
       "categoryIds": [
         "all",
@@ -810,9 +725,9 @@
     {
       "fundCode": "006810",
       "date": "2026-07-28",
-      "rawEst": 0.4252,
+      "rawEst": 0.6915,
       "avgError": 0,
-      "compEst": 0.43,
+      "compEst": 0.69,
       "realChange": null
     },
     {
@@ -930,9 +845,9 @@
     {
       "fundCode": "010655",
       "date": "2026-07-28",
-      "rawEst": -1.2424,
+      "rawEst": -1.5182,
       "avgError": 0.3119,
-      "compEst": -0.93,
+      "compEst": -1.21,
       "realChange": null
     },
     {
@@ -946,7 +861,7 @@
     {
       "fundCode": "011609",
       "date": "2026-07-28",
-      "rawEst": -0.0165,
+      "rawEst": -0.0207,
       "avgError": -3.5594,
       "compEst": -3.58,
       "realChange": null
@@ -1069,14 +984,14 @@
       "rawEst": -0.2641,
       "avgError": -0.1771,
       "compEst": -0.44,
-      "realChange": null
+      "realChange": -0.0352
     },
     {
       "fundCode": "014064",
       "date": "2026-07-28",
-      "rawEst": -0.1329,
-      "avgError": -0.1771,
-      "compEst": -0.31,
+      "rawEst": -0.0003,
+      "avgError": -0.132,
+      "compEst": -0.13,
       "realChange": null
     },
     {
@@ -1384,78 +1299,6 @@
       "realChange": null
     },
     {
-      "fundCode": "024239",
-      "date": "2026-07-14",
-      "rawEst": -1.731,
-      "avgError": 0,
-      "compEst": -1.73,
-      "realChange": 3.3195
-    },
-    {
-      "fundCode": "024239",
-      "date": "2026-07-15",
-      "rawEst": 0.8878,
-      "avgError": 0,
-      "compEst": 0.89,
-      "realChange": -2.8363
-    },
-    {
-      "fundCode": "024239",
-      "date": "2026-07-16",
-      "rawEst": -1.8454,
-      "avgError": 5.0505,
-      "compEst": 3.21,
-      "realChange": -5.2633
-    },
-    {
-      "fundCode": "024239",
-      "date": "2026-07-17",
-      "rawEst": -2.5246,
-      "avgError": 0.6632,
-      "compEst": -1.86,
-      "realChange": -5.8843
-    },
-    {
-      "fundCode": "024239",
-      "date": "2026-07-20",
-      "rawEst": -0.229,
-      "avgError": -0.6972,
-      "compEst": -0.93,
-      "realChange": -0.3954
-    },
-    {
-      "fundCode": "024239",
-      "date": "2026-07-21",
-      "rawEst": 0.7161,
-      "avgError": -1.3628,
-      "compEst": -0.65,
-      "realChange": 4.7355
-    },
-    {
-      "fundCode": "024239",
-      "date": "2026-07-22",
-      "rawEst": 1.3034,
-      "avgError": -1.1235,
-      "compEst": 0.18,
-      "realChange": -1.8885
-    },
-    {
-      "fundCode": "024239",
-      "date": "2026-07-23",
-      "rawEst": 0.0329,
-      "avgError": -0.2664,
-      "compEst": -0.23,
-      "realChange": -1.2217
-    },
-    {
-      "fundCode": "024239",
-      "date": "2026-07-28",
-      "rawEst": -1.1528,
-      "avgError": -0.2664,
-      "compEst": -1.42,
-      "realChange": null
-    },
-    {
       "fundCode": "024424",
       "date": "2026-07-14",
       "rawEst": 1.1344,
@@ -1546,9 +1389,9 @@
     {
       "fundCode": "519212",
       "date": "2026-07-28",
-      "rawEst": -1.0966,
+      "rawEst": -0.5133,
       "avgError": 0.235,
-      "compEst": -0.86,
+      "compEst": -0.28,
       "realChange": null
     }
   ],
