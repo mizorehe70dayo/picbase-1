@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportedAt": "2026-07-29T01:04:52.080Z",
+  "exportedAt": "2026-07-29T07:07:10.400Z",
   "categories": [
     {
       "id": "all",
@@ -783,11 +783,27 @@
       "realChange": null
     },
     {
+      "fundCode": "004243",
+      "date": "2026-07-29",
+      "rawEst": -0.9991,
+      "avgError": -0.6336,
+      "compEst": -1.63,
+      "realChange": null
+    },
+    {
       "fundCode": "006810",
       "date": "2026-07-28",
       "rawEst": 0.6915,
       "avgError": 0,
       "compEst": 0.69,
+      "realChange": 0.7589
+    },
+    {
+      "fundCode": "006810",
+      "date": "2026-07-29",
+      "rawEst": 1.1399,
+      "avgError": 0.0674,
+      "compEst": 1.21,
       "realChange": null
     },
     {
@@ -908,6 +924,14 @@
       "rawEst": -1.5182,
       "avgError": 0.3119,
       "compEst": -1.21,
+      "realChange": -1.5339
+    },
+    {
+      "fundCode": "010655",
+      "date": "2026-07-29",
+      "rawEst": 0.2241,
+      "avgError": 0.2709,
+      "compEst": 0.5,
       "realChange": null
     },
     {
@@ -924,6 +948,14 @@
       "rawEst": -0.0207,
       "avgError": -3.5594,
       "compEst": -3.58,
+      "realChange": -5.9968
+    },
+    {
+      "fundCode": "011609",
+      "date": "2026-07-29",
+      "rawEst": -0.0054,
+      "avgError": -4.7678,
+      "compEst": -4.77,
       "realChange": null
     },
     {
@@ -1052,6 +1084,14 @@
       "rawEst": -0.0003,
       "avgError": -0.132,
       "compEst": -0.13,
+      "realChange": 0
+    },
+    {
+      "fundCode": "014064",
+      "date": "2026-07-29",
+      "rawEst": 0.7156,
+      "avgError": -0.1188,
+      "compEst": 0.6,
       "realChange": null
     },
     {
@@ -1452,6 +1492,14 @@
       "rawEst": -0.5133,
       "avgError": 0.235,
       "compEst": -0.28,
+      "realChange": -1.5086
+    },
+    {
+      "fundCode": "519212",
+      "date": "2026-07-29",
+      "rawEst": 1.8842,
+      "avgError": 0.0983,
+      "compEst": 1.98,
       "realChange": null
     }
   ],
@@ -1460,11 +1508,6 @@
       "id": "ext_1784079928748_a0pr",
       "name": "财新",
       "url": "https://www.caixin.com/"
-    },
-    {
-      "id": "ext_1784079974955_tl3e",
-      "name": "第一财经",
-      "url": "https://www.yicai.com/"
     },
     {
       "id": "ext_1784080022113_7lcp",
