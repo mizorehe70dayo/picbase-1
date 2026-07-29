@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportedAt": "2026-07-28T07:00:33.290Z",
+  "exportedAt": "2026-07-29T01:04:52.080Z",
   "categories": [
     {
       "id": "all",
@@ -75,8 +75,8 @@
       "name": "广发道琼斯石油指数（QDII-LOF）C",
       "customTags": null,
       "customTag": null,
-      "holdingAmount": 101.21,
-      "lastCalculatedDate": "2026-07-24",
+      "holdingAmount": 98.77,
+      "lastCalculatedDate": "2026-07-27",
       "transactions": null,
       "calcHistory": [
         {
@@ -88,6 +88,16 @@
           "isRealYield": true,
           "earnings": -0.36,
           "holdingAfterYield": 101.21
+        },
+        {
+          "date": "2026-07-27",
+          "holdingBefore": 101.21,
+          "txAmount": 0,
+          "holdingAfterTx": 101.21,
+          "yieldRate": -2.4142,
+          "isRealYield": true,
+          "earnings": -2.44,
+          "holdingAfterYield": 98.77
         }
       ]
     },
@@ -102,7 +112,7 @@
       "customTags": null,
       "customTag": null,
       "holdingAmount": 0,
-      "lastCalculatedDate": "2026-07-27",
+      "lastCalculatedDate": "2026-07-28",
       "transactions": null,
       "calcHistory": [
         {
@@ -111,6 +121,16 @@
           "txAmount": 0,
           "holdingAfterTx": 0,
           "yieldRate": 1.1965,
+          "isRealYield": true,
+          "earnings": 0,
+          "holdingAfterYield": 0
+        },
+        {
+          "date": "2026-07-28",
+          "holdingBefore": 0,
+          "txAmount": 0,
+          "holdingAfterTx": 0,
+          "yieldRate": 0.7589,
           "isRealYield": true,
           "earnings": 0,
           "holdingAfterYield": 0
@@ -167,8 +187,8 @@
         "index_symbol": "SH000808",
         "index_name": "医药生物"
       },
-      "holdingAmount": 217.68,
-      "lastCalculatedDate": "2026-07-27",
+      "holdingAmount": 214.34,
+      "lastCalculatedDate": "2026-07-28",
       "transactions": null,
       "calcHistory": [
         {
@@ -220,6 +240,16 @@
           "isRealYield": true,
           "earnings": 1.55,
           "holdingAfterYield": 217.68
+        },
+        {
+          "date": "2026-07-28",
+          "holdingBefore": 217.68,
+          "txAmount": 0,
+          "holdingAfterTx": 217.68,
+          "yieldRate": -1.5339,
+          "isRealYield": true,
+          "earnings": -3.34,
+          "holdingAfterYield": 214.34
         }
       ]
     },
@@ -245,8 +275,8 @@
         "index_symbol": "SH000016",
         "index_name": "上证50"
       },
-      "holdingAmount": 66.44,
-      "lastCalculatedDate": "2026-07-27",
+      "holdingAmount": 62.46,
+      "lastCalculatedDate": "2026-07-28",
       "transactions": null,
       "calcHistory": [
         {
@@ -268,6 +298,16 @@
           "isRealYield": true,
           "earnings": 0.78,
           "holdingAfterYield": 66.44
+        },
+        {
+          "date": "2026-07-28",
+          "holdingBefore": 66.44,
+          "txAmount": 0,
+          "holdingAfterTx": 66.44,
+          "yieldRate": -5.9968,
+          "isRealYield": true,
+          "earnings": -3.98,
+          "holdingAfterYield": 62.46
         }
       ]
     },
@@ -340,7 +380,7 @@
         "index_name": "中证农业"
       },
       "holdingAmount": 115.04,
-      "lastCalculatedDate": "2026-07-27",
+      "lastCalculatedDate": "2026-07-28",
       "transactions": null,
       "calcHistory": [
         {
@@ -361,6 +401,16 @@
           "yieldRate": 1.1402,
           "isRealYield": true,
           "earnings": 1.3,
+          "holdingAfterYield": 115.04
+        },
+        {
+          "date": "2026-07-28",
+          "holdingBefore": 115.04,
+          "txAmount": 0,
+          "holdingAfterTx": 115.04,
+          "yieldRate": 0,
+          "isRealYield": true,
+          "earnings": 0,
           "holdingAfterYield": 115.04
         }
       ]
@@ -628,8 +678,8 @@
         "index_symbol": "SZ399998",
         "index_name": "中证煤炭"
       },
-      "holdingAmount": 113.88,
-      "lastCalculatedDate": "2026-07-27",
+      "holdingAmount": 112.16,
+      "lastCalculatedDate": "2026-07-28",
       "transactions": [
         {
           "id": "tx_1784092340815_jppt7",
@@ -693,6 +743,16 @@
           "isRealYield": true,
           "earnings": 2.09,
           "holdingAfterYield": 113.88
+        },
+        {
+          "date": "2026-07-28",
+          "holdingBefore": 113.88,
+          "txAmount": 0,
+          "holdingAfterTx": 113.88,
+          "yieldRate": -1.5086,
+          "isRealYield": true,
+          "earnings": -1.72,
+          "holdingAfterYield": 112.16
         }
       ]
     }
