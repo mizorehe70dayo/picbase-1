@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportedAt": "2026-07-29T07:07:10.400Z",
+  "exportedAt": "2026-07-30T07:01:18.721Z",
   "categories": [
     {
       "id": "all",
@@ -65,6 +65,32 @@
   ],
   "funds": [
     {
+      "fundCode": "001725",
+      "categoryIds": [
+        "all",
+        "holdings"
+      ],
+      "note": "",
+      "name": "汇添富高端制造",
+      "customTags": null,
+      "customTag": null,
+      "holdingAmount": 0,
+      "lastCalculatedDate": "2026-07-29",
+      "transactions": null,
+      "calcHistory": [
+        {
+          "date": "2026-07-29",
+          "holdingBefore": 0,
+          "txAmount": 0,
+          "holdingAfterTx": 0,
+          "yieldRate": 1.6091,
+          "isRealYield": true,
+          "earnings": 0,
+          "holdingAfterYield": 0
+        }
+      ]
+    },
+    {
       "fundCode": "004243",
       "categoryIds": [
         "all",
@@ -75,8 +101,8 @@
       "name": "广发道琼斯石油指数（QDII-LOF）C",
       "customTags": null,
       "customTag": null,
-      "holdingAmount": 98.77,
-      "lastCalculatedDate": "2026-07-27",
+      "holdingAmount": 97.35,
+      "lastCalculatedDate": "2026-07-28",
       "transactions": null,
       "calcHistory": [
         {
@@ -98,6 +124,16 @@
           "isRealYield": true,
           "earnings": -2.44,
           "holdingAfterYield": 98.77
+        },
+        {
+          "date": "2026-07-28",
+          "holdingBefore": 98.77,
+          "txAmount": 0,
+          "holdingAfterTx": 98.77,
+          "yieldRate": -1.4395,
+          "isRealYield": true,
+          "earnings": -1.42,
+          "holdingAfterYield": 97.35
         }
       ]
     },
@@ -112,7 +148,7 @@
       "customTags": null,
       "customTag": null,
       "holdingAmount": 0,
-      "lastCalculatedDate": "2026-07-28",
+      "lastCalculatedDate": "2026-07-29",
       "transactions": null,
       "calcHistory": [
         {
@@ -131,6 +167,16 @@
           "txAmount": 0,
           "holdingAfterTx": 0,
           "yieldRate": 0.7589,
+          "isRealYield": true,
+          "earnings": 0,
+          "holdingAfterYield": 0
+        },
+        {
+          "date": "2026-07-29",
+          "holdingBefore": 0,
+          "txAmount": 0,
+          "holdingAfterTx": 0,
+          "yieldRate": 1.3208,
           "isRealYield": true,
           "earnings": 0,
           "holdingAfterYield": 0
@@ -187,8 +233,8 @@
         "index_symbol": "SH000808",
         "index_name": "医药生物"
       },
-      "holdingAmount": 214.34,
-      "lastCalculatedDate": "2026-07-28",
+      "holdingAmount": 214.63,
+      "lastCalculatedDate": "2026-07-29",
       "transactions": null,
       "calcHistory": [
         {
@@ -250,14 +296,23 @@
           "isRealYield": true,
           "earnings": -3.34,
           "holdingAfterYield": 214.34
+        },
+        {
+          "date": "2026-07-29",
+          "holdingBefore": 214.34,
+          "txAmount": 0,
+          "holdingAfterTx": 214.34,
+          "yieldRate": 0.1346,
+          "isRealYield": true,
+          "earnings": 0.29,
+          "holdingAfterYield": 214.63
         }
       ]
     },
     {
       "fundCode": "011609",
       "categoryIds": [
-        "all",
-        "holdings"
+        "all"
       ],
       "note": "",
       "name": "易方达上证科创50ETF联接C",
@@ -275,8 +330,8 @@
         "index_symbol": "SH000016",
         "index_name": "上证50"
       },
-      "holdingAmount": 62.46,
-      "lastCalculatedDate": "2026-07-28",
+      "holdingAmount": 61.98,
+      "lastCalculatedDate": "2026-07-29",
       "transactions": null,
       "calcHistory": [
         {
@@ -308,6 +363,16 @@
           "isRealYield": true,
           "earnings": -3.98,
           "holdingAfterYield": 62.46
+        },
+        {
+          "date": "2026-07-29",
+          "holdingBefore": 62.46,
+          "txAmount": 0,
+          "holdingAfterTx": 62.46,
+          "yieldRate": -0.7695,
+          "isRealYield": true,
+          "earnings": -0.48,
+          "holdingAfterYield": 61.98
         }
       ]
     },
@@ -357,6 +422,44 @@
       "calcHistory": []
     },
     {
+      "fundCode": "013475",
+      "categoryIds": [
+        "all",
+        "holdings"
+      ],
+      "note": "",
+      "name": "华宝中证智能电动汽车ETF发起式联接A",
+      "customTags": [
+        {
+          "category_name": "搜索",
+          "sub_category_name": "搜索结果",
+          "index_symbol": "CSI930721",
+          "index_name": "CS智汽车"
+        }
+      ],
+      "customTag": {
+        "category_name": "搜索",
+        "sub_category_name": "搜索结果",
+        "index_symbol": "CSI930721",
+        "index_name": "CS智汽车"
+      },
+      "holdingAmount": 0,
+      "lastCalculatedDate": "2026-07-29",
+      "transactions": null,
+      "calcHistory": [
+        {
+          "date": "2026-07-29",
+          "holdingBefore": 0,
+          "txAmount": 0,
+          "holdingAfterTx": 0,
+          "yieldRate": 1.546,
+          "isRealYield": true,
+          "earnings": 0,
+          "holdingAfterYield": 0
+        }
+      ]
+    },
+    {
       "fundCode": "014064",
       "categoryIds": [
         "all",
@@ -379,8 +482,8 @@
         "index_symbol": "CSI000949",
         "index_name": "中证农业"
       },
-      "holdingAmount": 115.04,
-      "lastCalculatedDate": "2026-07-28",
+      "holdingAmount": 116.07,
+      "lastCalculatedDate": "2026-07-29",
       "transactions": null,
       "calcHistory": [
         {
@@ -412,6 +515,16 @@
           "isRealYield": true,
           "earnings": 0,
           "holdingAfterYield": 115.04
+        },
+        {
+          "date": "2026-07-29",
+          "holdingBefore": 115.04,
+          "txAmount": 0,
+          "holdingAfterTx": 115.04,
+          "yieldRate": 0.8947,
+          "isRealYield": true,
+          "earnings": 1.03,
+          "holdingAfterYield": 116.07
         }
       ]
     },
@@ -678,8 +791,8 @@
         "index_symbol": "SZ399998",
         "index_name": "中证煤炭"
       },
-      "holdingAmount": 112.16,
-      "lastCalculatedDate": "2026-07-28",
+      "holdingAmount": 115.73,
+      "lastCalculatedDate": "2026-07-29",
       "transactions": [
         {
           "id": "tx_1784092340815_jppt7",
@@ -753,11 +866,29 @@
           "isRealYield": true,
           "earnings": -1.72,
           "holdingAfterYield": 112.16
+        },
+        {
+          "date": "2026-07-29",
+          "holdingBefore": 112.16,
+          "txAmount": 0,
+          "holdingAfterTx": 112.16,
+          "yieldRate": 3.1865,
+          "isRealYield": true,
+          "earnings": 3.57,
+          "holdingAfterYield": 115.73
         }
       ]
     }
   ],
   "predictionHistory": [
+    {
+      "fundCode": "001725",
+      "date": "2026-07-30",
+      "rawEst": 1.0002,
+      "avgError": 0,
+      "compEst": 1,
+      "realChange": null
+    },
     {
       "fundCode": "004243",
       "date": "2026-07-23",
@@ -780,7 +911,7 @@
       "rawEst": -1.3758,
       "avgError": -0.6336,
       "compEst": -2.01,
-      "realChange": null
+      "realChange": -1.4395
     },
     {
       "fundCode": "004243",
@@ -788,6 +919,14 @@
       "rawEst": -0.9991,
       "avgError": -0.6336,
       "compEst": -1.63,
+      "realChange": null
+    },
+    {
+      "fundCode": "004243",
+      "date": "2026-07-30",
+      "rawEst": 1.5964,
+      "avgError": -0.4436,
+      "compEst": 1.15,
       "realChange": null
     },
     {
@@ -804,6 +943,14 @@
       "rawEst": 1.1399,
       "avgError": 0.0674,
       "compEst": 1.21,
+      "realChange": 1.3208
+    },
+    {
+      "fundCode": "006810",
+      "date": "2026-07-30",
+      "rawEst": 0.6169,
+      "avgError": 0.1242,
+      "compEst": 0.74,
       "realChange": null
     },
     {
@@ -932,6 +1079,14 @@
       "rawEst": 0.2241,
       "avgError": 0.2709,
       "compEst": 0.5,
+      "realChange": 0.1346
+    },
+    {
+      "fundCode": "010655",
+      "date": "2026-07-30",
+      "rawEst": -2.4061,
+      "avgError": 0.2309,
+      "compEst": -2.18,
       "realChange": null
     },
     {
@@ -956,6 +1111,14 @@
       "rawEst": -0.0054,
       "avgError": -4.7678,
       "compEst": -4.77,
+      "realChange": -0.7695
+    },
+    {
+      "fundCode": "011609",
+      "date": "2026-07-30",
+      "rawEst": -0.015,
+      "avgError": -3.4332,
+      "compEst": -3.45,
       "realChange": null
     },
     {
@@ -1004,6 +1167,14 @@
       "rawEst": 0.8727,
       "avgError": -1.7911,
       "compEst": -0.92,
+      "realChange": null
+    },
+    {
+      "fundCode": "013475",
+      "date": "2026-07-30",
+      "rawEst": 0,
+      "avgError": 0,
+      "compEst": -1.7,
       "realChange": null
     },
     {
@@ -1092,6 +1263,14 @@
       "rawEst": 0.7156,
       "avgError": -0.1188,
       "compEst": 0.6,
+      "realChange": 0.8947
+    },
+    {
+      "fundCode": "014064",
+      "date": "2026-07-30",
+      "rawEst": 1.0804,
+      "avgError": -0.0917,
+      "compEst": 0.99,
       "realChange": null
     },
     {
@@ -1140,6 +1319,14 @@
       "rawEst": -0.0218,
       "avgError": -2.4669,
       "compEst": -2.49,
+      "realChange": -3.2027
+    },
+    {
+      "fundCode": "014881",
+      "date": "2026-07-30",
+      "rawEst": 0,
+      "avgError": -2.4669,
+      "compEst": -2.47,
       "realChange": null
     },
     {
@@ -1164,6 +1351,14 @@
       "rawEst": -0.6375,
       "avgError": 0,
       "compEst": -0.64,
+      "realChange": 0.0584
+    },
+    {
+      "fundCode": "016452",
+      "date": "2026-07-30",
+      "rawEst": -1.2397,
+      "avgError": -0.1691,
+      "compEst": -1.41,
       "realChange": null
     },
     {
@@ -1196,6 +1391,14 @@
       "rawEst": -1.2466,
       "avgError": -1.8081,
       "compEst": -3.05,
+      "realChange": -8.0843
+    },
+    {
+      "fundCode": "016665",
+      "date": "2026-07-30",
+      "rawEst": -1.1353,
+      "avgError": -1.8081,
+      "compEst": -2.94,
       "realChange": null
     },
     {
@@ -1252,6 +1455,14 @@
       "rawEst": 15.309,
       "avgError": -1.6761,
       "compEst": 13.63,
+      "realChange": 17.8485
+    },
+    {
+      "fundCode": "017811",
+      "date": "2026-07-30",
+      "rawEst": -4.5519,
+      "avgError": -1.6761,
+      "compEst": -6.23,
       "realChange": null
     },
     {
@@ -1284,6 +1495,14 @@
       "rawEst": -2.6779,
       "avgError": -1.4026,
       "compEst": -4.08,
+      "realChange": -4.2273
+    },
+    {
+      "fundCode": "018230",
+      "date": "2026-07-30",
+      "rawEst": -1.0217,
+      "avgError": -1.4026,
+      "compEst": -2.42,
       "realChange": null
     },
     {
@@ -1308,6 +1527,14 @@
       "rawEst": 0.0045,
       "avgError": 3.0699,
       "compEst": 3.07,
+      "realChange": 0.7219
+    },
+    {
+      "fundCode": "019667",
+      "date": "2026-07-30",
+      "rawEst": -0.0111,
+      "avgError": -1.699,
+      "compEst": -1.71,
       "realChange": null
     },
     {
@@ -1364,6 +1591,14 @@
       "rawEst": 7.5105,
       "avgError": -2.2007,
       "compEst": 5.31,
+      "realChange": 12.269
+    },
+    {
+      "fundCode": "020470",
+      "date": "2026-07-30",
+      "rawEst": -5.3819,
+      "avgError": -1.2065,
+      "compEst": -6.59,
       "realChange": null
     },
     {
@@ -1396,6 +1631,14 @@
       "rawEst": -3.1856,
       "avgError": -1.1229,
       "compEst": -4.31,
+      "realChange": -8.5142
+    },
+    {
+      "fundCode": "023452",
+      "date": "2026-07-30",
+      "rawEst": -5.6673,
+      "avgError": -2.1743,
+      "compEst": -7.84,
       "realChange": null
     },
     {
@@ -1420,6 +1663,14 @@
       "rawEst": 11.0571,
       "avgError": -0.9425,
       "compEst": 10.11,
+      "realChange": 17.9276
+    },
+    {
+      "fundCode": "024424",
+      "date": "2026-07-30",
+      "rawEst": -3.7941,
+      "avgError": 1.6618,
+      "compEst": -2.13,
       "realChange": null
     },
     {
@@ -1500,6 +1751,14 @@
       "rawEst": 1.8842,
       "avgError": 0.0983,
       "compEst": 1.98,
+      "realChange": 3.1865
+    },
+    {
+      "fundCode": "519212",
+      "date": "2026-07-30",
+      "rawEst": 0.3896,
+      "avgError": 0.2187,
+      "compEst": 0.61,
       "realChange": null
     }
   ],
