@@ -15,7 +15,7 @@
     "fixed": 29986,
     "invest": 59971
   },
-  "loanBalance": 72800,
+  "loanBalance": 75774,
   "transactions": [
     {
       "id": "tx-1784466078385-lega51ab4",
@@ -91,6 +91,13 @@
       "amount": 42000,
       "timestamp": 1785372173175,
       "description": "支出登记 [计入贷款池]: 火车票"
+    },
+    {
+      "id": "tx-1785384109573-f0kpj3fdf",
+      "type": "EXPENSE",
+      "amount": 2974,
+      "timestamp": 1785384109573,
+      "description": "支出登记 [计入贷款池]: 话费"
     }
   ],
   "dailySnapshots": [
@@ -127,9 +134,9 @@
       "emergency": 95172,
       "fixed": 29986,
       "invest": 59971,
-      "loanBalance": 72800,
-      "netWorth": 262258
+      "loanBalance": 75774,
+      "netWorth": 259284
     }
   ],
-  "lastUpdated": 1785372173213
+  "lastUpdated": 1785384109594
 }
