@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportedAt": "2026-08-03T06:54:32.955Z",
+  "exportedAt": "2026-08-03T06:57:35.204Z",
   "categories": [
     {
       "id": "all",
@@ -1040,9 +1040,9 @@
     {
       "fundCode": "001725",
       "date": "2026-08-03",
-      "rawEst": -1.1986,
+      "rawEst": -1.2042,
       "avgError": -0.0131,
-      "compEst": -1.21,
+      "compEst": -1.22,
       "realChange": null
     },
     {
