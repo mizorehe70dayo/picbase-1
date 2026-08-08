@@ -15,7 +15,7 @@
     "fixed": 29986,
     "invest": 59971
   },
-  "loanBalance": 80124,
+  "loanBalance": 285724,
   "transactions": [
     {
       "id": "tx-1784466078385-lega51ab4",
@@ -105,6 +105,13 @@
       "amount": 4350,
       "timestamp": 1785900158593,
       "description": "支出登记 [计入贷款池]: 德克士"
+    },
+    {
+      "id": "tx-1786191299926-5ej8bsnqe",
+      "type": "EXPENSE",
+      "amount": 205600,
+      "timestamp": 1786191299927,
+      "description": "支出登记 [计入贷款池]: 手机"
     }
   ],
   "dailySnapshots": [
@@ -152,7 +159,16 @@
       "invest": 59971,
       "loanBalance": 80124,
       "netWorth": 254934
+    },
+    {
+      "date": "2026-08-08",
+      "daily": 149929,
+      "emergency": 95172,
+      "fixed": 29986,
+      "invest": 59971,
+      "loanBalance": 285724,
+      "netWorth": 49334
     }
   ],
-  "lastUpdated": 1785900158654
+  "lastUpdated": 1786191299976
 }
